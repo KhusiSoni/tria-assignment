@@ -1,5 +1,7 @@
 # Tria Contact List
 
+**Live Demo:** https://tria-assignment-three.vercel.app
+
 A clean and elegant Contact List web application built with React and Vite. This project demonstrates modern component-based architecture, API-mimicked data loading, custom modal and search handling, and a subtle, user-friendly UI—all designed and developed by Khusi Soni, 4th year student, IIT Kharagpur.
 
 ## ✨ Features
@@ -47,6 +49,7 @@ src/
     ```
 
 Open [http://localhost:5173](http://localhost:5173) and explore.
+
 
 ## 📝 Core Implementation Details
 
